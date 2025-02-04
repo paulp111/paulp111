@@ -60,10 +60,10 @@
 <div align="center" style="margin-top: 20px; font-family: 'Verdana', sans-serif; font-size: 20px; color: #bdbdbd; display: flex; justify-content: center; align-items: center; gap: 10px;">
   <!--  <span>Follow me </span> -->
  <!-- <a href="https://www.tiktok.com/@yourusername" target="_blank" style="text-decoration: none;"> -->
-<img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/tiktok.svg" height="30" alt="TikTok" style="vertical-align: middle;"/>
+<img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/tiktok.svg" height="35" alt="TikTok" style="vertical-align: middle;"/>
   <!-- <a href="https://www.instagram.com/yourusername" target="_blank" style="text-decoration: none;">-->
 &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/insta.svg" height="30" alt="Instagram" style="vertical-align: middle;"/>
+<img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/insta.svg" height="35" alt="Instagram" style="vertical-align: middle;"/>
 
 </div>
 
