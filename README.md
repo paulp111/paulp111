@@ -2,8 +2,6 @@
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
 
-# Hi there, I'm Paul! 👋
-
 ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue&style=flat-square)
 
 <p align="center">
