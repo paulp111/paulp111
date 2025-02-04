@@ -64,11 +64,11 @@
   <p style="font-family: 'Verdana', sans-serif; font-size: 14px; color: #bdbdbd;">
     Follow me on  
     <a href="https://www.tiktok.com/@yourusername" target="_blank" style="text-decoration: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tiktok/tiktok-original.svg" height="20" alt="TikTok" style="vertical-align: middle; margin-left: 5px; margin-right: 5px;"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/TikTok_logo.svg" height="20" alt="TikTok" style="vertical-align: middle; margin-left: 5px; margin-right: 5px;"/>
     </a> 
     and  
     <a href="https://www.instagram.com/yourusername" target="_blank" style="text-decoration: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="20" alt="Instagram" style="vertical-align: middle; margin-left: 5px;"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="20" alt="Instagram" style="vertical-align: middle; margin-left: 5px;"/>
     </a>  
     <strong>for more!</strong> ✨
   </p>
