@@ -1,6 +1,5 @@
 <div align="center">
-  <p style="font-size: 24px; color: #bdbdbd; font-family: 'Verdana', sans-serif;">Phonk Vibes</p>
-  <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/demon.gif" height="30" alt="Demon" />
+  <p style="font-size: 24px; color: #bdbdbd; font-family: 'Verdana', sans-serif;">Phonk Vibes <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/demon.gif" height="30" alt="Demon" />
 </div>
 
 &nbsp;<div align="center">
