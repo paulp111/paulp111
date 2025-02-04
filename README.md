@@ -67,9 +67,8 @@
   </a> 
   and  
   <a href="https://www.instagram.com/yourusername" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/instagram.png" height="20" alt="Instagram" style="vertical-align: middle; margin: 0 5px;"/>
+    <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/insta.svg" height="20" alt="Instagram" style="vertical-align: middle; margin: 0 5px;"/>
   </a>  
-  <strong>for more!</strong> ✨
 </div>
 
 
