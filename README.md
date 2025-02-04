@@ -92,15 +92,19 @@
 
 ---
 
+<div align="center" style="margin-top: 20px; margin-bottom: 20px; font-family: 'Verdana', sans-serif; line-height: 1.6;"> <h3>And that’s a wrap!</h3> <p>But don’t leave just yet—my pinned repos are where the fun happens.</p> <p>Think of them as the cornerstones of this little coding lounge.</p> <p>Whether you’re here to stay or just passing through, I hope it felt like home.</p> </div>
+
+<!--
 <div align="center" style="margin-top: 20px; font-family: 'Verdana', sans-serif; font-size: 20px; color: #bdbdbd; display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <!--  <span>Follow me </span> -->
- <!-- <a href="https://www.tiktok.com/@yourusername" target="_blank" style="text-decoration: none;"> -->
+ <span>Follow me </span> 
+ <a href="https://www.tiktok.com/@yourusername" target="_blank" style="text-decoration: none;"> 
 <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/tiktok.svg" height="35" alt="TikTok" style="vertical-align: middle;"/>
-  <!-- <a href="https://www.instagram.com/yourusername" target="_blank" style="text-decoration: none;">-->
+  <!-- <a href="https://www.instagram.com/yourusername" target="_blank" style="text-decoration: none;">
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/insta.svg" height="35" alt="Instagram" style="vertical-align: middle;"/>
 
 </div>
+-->
 
 
 
