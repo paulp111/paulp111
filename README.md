@@ -7,7 +7,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue&style=flat-square)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/bg.png" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/paulp111/paulp111/assets/bg.png" alt="Banner"/>
 </p>
 
 ## 🚀 About Me
