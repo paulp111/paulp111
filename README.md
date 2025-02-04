@@ -43,18 +43,20 @@
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="flex: 1; max-width: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulp111&theme=dark&layout=compact" alt="Most Used Languages" style="border-radius: 8px;"/>
-  </div>
-  <div style="flex: 1; max-width: 400px; padding-left: 20px;">
-    <p style="color: #bdbdbd; font-family: 'Arial', sans-serif; font-size: 14px;">
-      👋 Hi, I'm Paul!  
-      A passionate developer who loves crafting modern, scalable, and secure software solutions.  
-      My focus is on <strong>web development</strong>, <strong>IT security</strong>, and building <strong>aesthetic designs</strong>.
-    </p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulp111&theme=dark&layout=compact" alt="Most Used Languages" style="border-radius: 8px;"/>
+    </td>
+    <td style="padding-left: 20px;">
+      <p style="color: #bdbdbd; font-family: 'Arial', sans-serif; font-size: 14px;">
+        👋 Hi, I'm Paul!  
+        A passionate developer who loves crafting modern, scalable, and secure software solutions.  
+        My focus is on <strong>web development</strong>, <strong>IT security</strong>, and building <strong>aesthetic designs</strong>.
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 ---
