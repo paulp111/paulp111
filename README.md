@@ -1,8 +1,7 @@
-<div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
-  <h2 style="color:#ffffff; font-family:'Arial', sans-serif; letter-spacing:1.5px;">🔥 Welcome to Paul's Developer World 🔥</h2>
-  <p style="color:#bdbdbd; font-size:16px; font-family:'Verdana', sans-serif;">Crafting innovative, secure, and scalable solutions with a touch of elegance and magic ✨</p>
+<div align="center">
+  <h2>Welcome to My GitHub 🔥</h2>
+  <p>Innovating with code, driven by passion.</p>
 </div>
-
 
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
