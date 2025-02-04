@@ -52,8 +52,9 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/6.png" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/6.png" alt="Heart" style="width: 80px; height: auto; margin-top: 20px;"/>
 </p>
+
 
 <div align="center" style="margin-top: 30px; padding: 20px; border-top: 1px solid #2e2e2e;">
   <p style="color:#bdbdbd; font-size:14px; font-family:'Verdana', sans-serif; font-style:italic;">
