@@ -11,7 +11,7 @@
 I'm a passionate **software developer** with a strong focus on **web development, IT security**, and **backend systems**. I strive to create high-quality, scalable solutions, explore cutting-edge technologies, and deliver impactful projects.
 
 - 💼 Currently mastering **PHP**, **JavaScript**, **Kotlin**, and **SQL**
-- 🌐 Experimenting with **cloud architectures**, **microservices**, and **AI-driven solutions**
+- 🌐 Experimenting with **cloud architectures**, **microservices**, **AI-driven solutions**, and **UI/UX design**
 - 🛠 Building projects that balance **performance**, **usability**, and **security**
 - 🎓 Preparing for my **LAP in Application Development**
 - 🚀 Always exploring ways to push the boundaries of **modern software engineering**
@@ -31,13 +31,14 @@ I'm a passionate **software developer** with a strong focus on **web development
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
-### 🖥 Frameworks & Libraries:
+### 🎨 Frameworks & Libraries:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Material UI](https://img.shields.io/badge/-MUI-0081CB?style=flat-square&logo=mui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=flat-square&logo=chakra-ui&logoColor=white)
 
 ### 🌐 Databases & Cloud:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -57,6 +58,14 @@ I'm a passionate **software developer** with a strong focus on **web development
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+
+---
+
+## 🎵 Now Playing
+<p align="center">
+  <iframe src="https://open.spotify.com/embed/track/1H5XxAJiugBTAXTYfMnqoe" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+</p>
 
 ---
 
@@ -64,7 +73,7 @@ I'm a passionate **software developer** with a strong focus on **web development
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark&count_private=true" height="165">
-<img src="https://github-readme-stats.vercel.app/api?username=paulp111&show_icons=true&theme=dark" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&theme=dark&layout=compact" height="165">
 </p>
 
