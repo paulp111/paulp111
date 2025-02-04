@@ -64,7 +64,7 @@ I'm a passionate **software developer** with a strong focus on **web development
 
 ## 🎵 Now Playing
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/playlist/37i9dQZF1DWWY64wDtewQt?si=zJbrNwCnTK2w442QT-M3QaQ&pi=npqQHTK6RIONY)
 </div>
 
 ---
