@@ -1,5 +1,6 @@
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
   <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/demon.gif" height="30" alt="Demon" />
+  div>
   <br />
 <div align="center" style="margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=YourUsername&color=blue&style=for-the-badge" alt="Profile Views" style="border-radius: 5px; padding: 5px; background: linear-gradient(135deg, #6a11cb, #0dce82); box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);" />
