@@ -43,11 +43,11 @@
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulp111&theme=dark&layout=compact" alt="Most Used Languages" style="border-radius: 8px;">
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div style="flex: 1; max-width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulp111&theme=dark&layout=compact" alt="Most Used Languages" style="border-radius: 8px;"/>
   </div>
-  <div style="width: 45%; padding-left: 10px;">
+  <div style="flex: 1; max-width: 400px; padding-left: 20px;">
     <p style="color: #bdbdbd; font-family: 'Arial', sans-serif; font-size: 14px;">
       👋 Hi, I'm Paul!  
       A passionate developer who loves crafting modern, scalable, and secure software solutions.  
