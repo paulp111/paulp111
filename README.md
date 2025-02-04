@@ -71,7 +71,7 @@ An AI-powered running app that provides personalized **training plans** and **pe
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/comp.png" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/6.png" alt="Banner"/>
 </p>
 
 ## 🤝 Let's Connect
