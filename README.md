@@ -57,8 +57,8 @@
 
 ---
 
-<div align="center" style="margin-top: 20px; font-family: 'Verdana', sans-serif; font-size: 16px; color: #bdbdbd; display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <span>Follow me on</span>
+<div align="center" style="margin-top: 20px; font-family: 'Verdana', sans-serif; font-size: 24px; color: #bdbdbd; display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <span>Follow me 🔥 </span>
  <!-- <a href="https://www.tiktok.com/@yourusername" target="_blank" style="text-decoration: none;"> -->
     <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/tiktok.svg" height="24" alt="TikTok" style="vertical-align: middle;"/>
   <!-- <a href="https://www.instagram.com/yourusername" target="_blank" style="text-decoration: none;">-->
