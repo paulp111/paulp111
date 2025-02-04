@@ -54,7 +54,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/512.gif" alt="Heart" style="width: 150px; height: auto; margin-top: 20px;"/>
+  <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/rocket.gif" alt="Heart" style="width: 150px; height: auto; margin-top: 20px;"/>
 </p>
 
 <div align="center" style="margin-top: 30px; padding: 20px; border-top: 1px solid #2e2e2e;">
