@@ -1,12 +1,15 @@
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
-
-# Hi there, I'm Paul! 👋
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YourUsername&color=blue&style=for-the-badge" alt="Profile Views"/>
 </p>
+
+---
+
+# Hi there, I'm Paul! 👋
+
+
 
 
 
