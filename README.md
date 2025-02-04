@@ -2,7 +2,6 @@
   <p style="font-size: 24px; color: #bdbdbd; font-family: 'Verdana', sans-serif;">Phonk Vibes</p>
   <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/demon.gif" height="30" alt="Demon" />
 </div>
-&nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
 <div align="center" style="margin-top: 20px;">
