@@ -3,7 +3,7 @@
 </div>
 <div align="center" style="margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=YourUsername&color=blue&style=for-the-badge" alt="Profile Views" style="border-radius: 5px; padding: 5px; background: linear-gradient(135deg, #6a11cb, #0dce82); box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);" />
-  <div style="font-size: 30px; margin-top: 5px;">🥰</div>
+  <div style="font-size: 30px; margin-top: 5px;">I must be doing something right 🥰</div>
 </div>
 
 ---
