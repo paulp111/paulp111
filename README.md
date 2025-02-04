@@ -59,8 +59,8 @@
 
 <div align="center" style="margin-top: 30px; padding: 20px; border-top: 1px solid #2e2e2e;">
   <p style="color:#bdbdbd; font-size:14px; font-family:'Verdana', sans-serif; font-style:italic;">
-    Thanks for checking out my Profile 
-    <br>Feel free to do anything really :D
+    𝘿𝙖𝙧𝙠 𝙢𝙤𝙙𝙚 𝙞𝙨𝙣’𝙩 𝙖 𝙩𝙝𝙚𝙢𝙚
+    <br>𝙄𝙩’𝙨 𝙖 𝙡𝙞𝙛𝙚𝙨𝙩𝙮𝙡𝙚
   </p>
 </div>
 
