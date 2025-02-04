@@ -60,6 +60,8 @@
   </p>
 </div>
 
+---
+
 <div align="center" style="margin-top: 20px; font-family: 'Verdana', sans-serif; font-size: 14px; color: #bdbdbd;">
   Follow me on  
   <a href="https://www.tiktok.com/@yourusername" target="_blank" style="text-decoration: none;">
