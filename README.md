@@ -51,26 +51,8 @@
 
 ---
 
-I'm a passionate **software developer** with a strong focus on **web development, IT security**, and **backend systems**. I strive to create high-quality, scalable solutions, explore cutting-edge technologies, and deliver impactful projects.
-
-- 💼 Currently mastering **PHP**, **JavaScript**, **Kotlin**, and **SQL**
-- 🌐 Experimenting with **cloud architectures**, **microservices**, **AI-driven solutions**, and **UI/UX design**
-- 🛠 Building projects that balance **performance**, **usability**, and **security**
-- 🎓 Preparing for my **LAP in Application Development**
-- 🚀 Always exploring ways to push the boundaries of **modern software engineering**
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/6.png" alt="Banner"/>
 </p>
 
-## 🤝 Let's Connect
-<div align="center">
-  <h2>Thanks for checking my GitHub</h2>
-  <p>Innovating with code, driven by passion 🔥</p>
-</div>
-
-
----
 💡 *“The best way to predict the future is to invent it.”* – Alan Kay
