@@ -6,25 +6,6 @@
 </p>
 
 ---
-
-# Hi there, I'm Paul! 👋
-
-
-
-
-
-## 🚀 About Me
-
-I'm a passionate **software developer** with a strong focus on **web development, IT security**, and **backend systems**. I strive to create high-quality, scalable solutions, explore cutting-edge technologies, and deliver impactful projects.
-
-- 💼 Currently mastering **PHP**, **JavaScript**, **Kotlin**, and **SQL**
-- 🌐 Experimenting with **cloud architectures**, **microservices**, **AI-driven solutions**, and **UI/UX design**
-- 🛠 Building projects that balance **performance**, **usability**, and **security**
-- 🎓 Preparing for my **LAP in Application Development**
-- 🚀 Always exploring ways to push the boundaries of **modern software engineering**
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages:
@@ -66,6 +47,26 @@ I'm a passionate **software developer** with a strong focus on **web development
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+
+---
+
+# Hi there, I'm Paul! 👋
+
+
+
+
+
+## 🚀 About Me
+
+I'm a passionate **software developer** with a strong focus on **web development, IT security**, and **backend systems**. I strive to create high-quality, scalable solutions, explore cutting-edge technologies, and deliver impactful projects.
+
+- 💼 Currently mastering **PHP**, **JavaScript**, **Kotlin**, and **SQL**
+- 🌐 Experimenting with **cloud architectures**, **microservices**, **AI-driven solutions**, and **UI/UX design**
+- 🛠 Building projects that balance **performance**, **usability**, and **security**
+- 🎓 Preparing for my **LAP in Application Development**
+- 🚀 Always exploring ways to push the boundaries of **modern software engineering**
+
+---
 
 
 ---
