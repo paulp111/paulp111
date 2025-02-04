@@ -62,14 +62,15 @@
 
 ---
 
-<div align="center" style="margin-top: 20px; font-family: 'Verdana', sans-serif; font-size: 14px; color: #bdbdbd;">
+<div align="center" style="margin-top: 20px; font-family: 'Verdana', sans-serif; font-size: 16px; color: #bdbdbd;">
   Follow me on  
   <a href="https://www.tiktok.com/@yourusername" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/tiktok.svg" height="18" alt="TikTok" style="vertical-align: text-bottom; margin: 0 5px;"/>
+    <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/tiktok.svg" height="24" alt="TikTok" style="vertical-align: text-bottom; margin: 0 8px;"/>
   </a> 
   and  
   <a href="https://www.instagram.com/yourusername" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/insta.svg" height="18" alt="Instagram" style="vertical-align: text-bottom; margin: 0 5px;"/>
+    <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/insta.svg" height="24" alt="Instagram" style="vertical-align: text-bottom; margin: 0 8px;"/>
   </a>  
 </div>
+
 
