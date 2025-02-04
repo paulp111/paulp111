@@ -1,4 +1,7 @@
-pls use dark mode 🥹
+<div align="right" style="font-family: 'Verdana', sans-serif; font-size: 14px; color: #bdbdbd; margin-top: 10px;">
+  <strong>pls use dark mode 😅</strong>
+</div>
+
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
