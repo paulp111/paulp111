@@ -3,7 +3,7 @@
 </div>
 <div align="center" style="margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=YourUsername&color=blue&style=for-the-badge" alt="Profile Views" style="border-radius: 5px; padding: 5px; background: linear-gradient(135deg, #6a11cb, #0dce82); box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);" />
-  <div style="font-size: 30px; margin-top: 5px;">Road to 100k 🥰</div>
+  <div style="font-size: 30px; margin-top: 5px;">🔥🔥🔥</div>
 </div>
 
 ---
@@ -59,7 +59,7 @@
 
 <div align="center" style="margin-top: 30px; padding: 20px; border-top: 1px solid #2e2e2e;">
   <p style="color:#bdbdbd; font-size:14px; font-family:'Verdana', sans-serif; font-style:italic; font-weight: bold;">
-    Dark mode isn’t a theme,
+    Dark mode isn’t a theme.
     <br>It’s a lifestyle.
   </p>
 </div>
