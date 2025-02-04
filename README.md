@@ -44,10 +44,14 @@
 ---
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=YourUsername&theme=github" alt="GitHub Activity Graph"/>
-<img src="https://github-readme-stats.vercel.app/api?username=paulp111&show_icons=true&theme=dark" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&theme=dark&layout=compact" height="165">
+  <img src="https://activity-graph.herokuapp.com/graph?username=paulp111&theme=github" alt="GitHub Activity Graph" style="margin-bottom: 20px;"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paulp111&show_icons=true&theme=dark" height="165" alt="GitHub Stats" style="margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulp111&theme=dark&layout=compact" height="165" alt="Top Languages">
+</p>
+
 
 ---
 
