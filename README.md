@@ -1,3 +1,13 @@
+<div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
+  <h3 style="color:#ffffff; font-family:'Arial', sans-serif; letter-spacing:1.5px;">👨‍💻 About Me</h3>
+  <p style="color:#bdbdbd; font-size:14px; font-family:'Verdana', sans-serif;">
+    Passionate developer focused on creating <strong>secure</strong> and <strong>scalable</strong> solutions.  
+    Inspired by clean design, performance-driven architectures, and cutting-edge technologies. 🚀
+  </p>
+</div>
+
+---
+
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
@@ -40,16 +50,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="50" alt="Unity"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" height="50" alt="Xamarin"/>
 </p>
-
----
-
-<div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
-  <h3 style="color:#ffffff; font-family:'Arial', sans-serif; letter-spacing:1.5px;">👨‍💻 About Me</h3>
-  <p style="color:#bdbdbd; font-size:14px; font-family:'Verdana', sans-serif;">
-    Passionate developer focused on creating <strong>secure</strong> and <strong>scalable</strong> solutions.  
-    Inspired by clean design, performance-driven architectures, and cutting-edge technologies. 🚀
-  </p>
-</div>
 
 ---
 
