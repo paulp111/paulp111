@@ -59,8 +59,8 @@
 
 <div align="center" style="margin-top: 30px; padding: 20px; border-top: 1px solid #2e2e2e;">
   <p style="color:#bdbdbd; font-size:14px; font-family:'Verdana', sans-serif; font-style:italic;">
-    "𝕾𝖎𝖒𝖕𝖑𝖎𝖈𝖎𝖙𝖞 𝖎𝖘 𝖙𝖍𝖊 𝖚𝖑𝖙𝖎𝖒𝖆𝖙𝖊 𝖘𝖔𝖕𝖍𝖎𝖘𝖙𝖎𝖈𝖆𝖙𝖎𝖔𝖓"  
-    <br>𝕷𝖊𝖔𝖓𝖆𝖗𝖉𝖔 𝖉𝖆 𝖁𝖎𝖓𝖈𝖎
+    Thanks for checking out my Profile 
+    <br>Feel free to do anything really :D
   </p>
 </div>
 
