@@ -1,18 +1,12 @@
-<div align="center">
-  <h3>🎵 Now Playing</h3>
+&nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
-
-<div align="center">
-  <h3>👀 Profile Views</h3>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=YourUsername&color=blue&style=for-the-badge" alt="Profile Views"/>
-  </p>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourUsername&color=blue&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 ---
 
-<h4 align="center">✨ Tech Stack</h4>
 <p align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript"/>
@@ -49,9 +43,9 @@
 
 ---
 
-<h4 align="center">📊 Stats That Matter</h4>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark&count_private=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=paulp111&show_icons=true&theme=dark" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&theme=dark&layout=compact" height="165">
 </p>
 
