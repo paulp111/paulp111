@@ -1,4 +1,4 @@
-&nbsp;<div align="center">
+<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
 <div align="center" style="margin-top: 20px;">
@@ -70,6 +70,7 @@
     <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/insta.svg" height="18" alt="Instagram" style="vertical-align: text-bottom; margin: 0 5px;"/>
   </a>  
 </div>
+
 
 
 
