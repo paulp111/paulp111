@@ -4,11 +4,11 @@
 
 # Hi there, I'm Paul! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue&style=flat-square)
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/1.png" alt="Banner"/>
+  <img src="https://komarev.com/ghpvc/?username=YourUsername&color=blue&style=for-the-badge" alt="Profile Views"/>
 </p>
+
+
 
 ## 🚀 About Me
 
