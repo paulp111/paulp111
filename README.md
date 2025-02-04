@@ -1,6 +1,6 @@
 <div align="center">
-  <h2>Welcome to My GitHub 🔥</h2>
-  <p>Innovating with code, driven by passion.</p>
+  <h2>Welcome to My GitHub</h2>
+  <p>Innovating with code, driven by passion 🔥</p>
 </div>
 
 &nbsp;<div align="center">
