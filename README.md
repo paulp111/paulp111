@@ -64,7 +64,8 @@ I'm a passionate **software developer** with a strong focus on **web development
 
 ## 🎵 Now Playing
 <p align="center">
-  <iframe src="https://open.spotify.com/embed/track/1H5XxAJiugBTAXTYfMnqoe" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+## 🎵 Now Playing
+[![Spotify](https://spotify-now-playing-github.vercel.app/api/spotify)](https://open.spotify.com/track/1H5XxAJiugBTAXTYfMnqoe)
 </p>
 
 ---
@@ -73,7 +74,7 @@ I'm a passionate **software developer** with a strong focus on **web development
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark&count_private=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=paulp111&show_icons=true&theme=dark" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&theme=dark&layout=compact" height="165">
 </p>
 
