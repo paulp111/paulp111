@@ -45,7 +45,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulp111&theme=dark&layout=compact" height="165" alt="Top Languages">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=paulp111&theme=github" height="165" alt="Activity Graph">
+  <img src="https://github-readme-stats.vercel.app/api?username=paulp111&show_icons=true&theme=dark" height="165" alt="GitHub Stats">
 </p>
 
 
