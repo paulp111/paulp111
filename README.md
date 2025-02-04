@@ -71,10 +71,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulp111&theme=dark&layout=compact" height="165" alt="Top Languages">
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/PiyushSuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" height="165" style="border: 1px solid #444; border-radius: 8px;" alt="Random Dev Quote">
   </a>
 </p>
-
 
 
 ---
