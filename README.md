@@ -2,16 +2,25 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue&style=flat-square)
 
-## 🚀 About Me
-I'm a passionate **software developer** with a focus on **web development, security, and backend systems**. I enjoy building efficient and scalable solutions, experimenting with **new technologies**, and continuously improving my skills.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/YourUsername/banner.png" alt="Banner"/>
+</p>
 
-- 💻 Currently working with **PHP, JavaScript, Kotlin, and SQL**
-- 📚 Exploring **IT security, XSS vulnerabilities, and backend optimizations**
-- 🎓 Preparing for my **LAP in application development**
-- 🚀 Building projects that combine **performance, usability, and security**
+## 🚀 About Me
+
+I'm a passionate **software developer** with a strong focus on **web development, IT security**, and **backend systems**. I strive to create high-quality, scalable solutions, explore cutting-edge technologies, and deliver impactful projects.
+
+- 💼 Currently mastering **PHP**, **JavaScript**, **Kotlin**, and **SQL**
+- 🌐 Experimenting with **cloud architectures**, **microservices**, and **AI-driven solutions**
+- 🛠 Building projects that balance **performance**, **usability**, and **security**
+- 🎓 Preparing for my **LAP in Application Development**
+- 🚀 Always exploring ways to push the boundaries of **modern software engineering**
+
+---
 
 ## 🛠️ Tech Stack
 
+### 💻 Programming Languages:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -21,38 +30,65 @@ I'm a passionate **software developer** with a focus on **web development, secur
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+
+### 🖥 Frameworks & Libraries:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+
+### 🌐 Databases & Cloud:
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+### ⚙️ Tools & Platforms:
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+
+---
 
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark&count_private=true" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&theme=dark&layout=compact" height="165">
 </p>
 
-## 📌 My Projects
-🚧 **Work in progress... Stay tuned!** 🚧
+---
 
-## 🤝 Connect with Me
+## 🌟 Highlight Projects
+
+### 🔐 **SecureFile**
+A secure file upload platform with **user authentication**, **encryption**, and **privacy-first design**.
+- **Tech Stack**: React, Node.js, PostgreSQL, AWS S3
+- **Live Demo**: [securefile.com](https://securefile.com)
+
+### 🏃 **RunTracker**
+An AI-powered running app that provides personalized **training plans** and **performance analytics**.
+- **Tech Stack**: Kotlin, Firebase, Python (ML)
+- **GitHub**: [RunTracker](https://github.com/YourUsername/RunTracker)
+
+---
+
+## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourProfile)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YourProfile)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=web&logoColor=white)](https://yourportfolio.com)
 
 ---
-💡 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+💡 *“The best way to predict the future is to invent it.”* – Alan Kay
