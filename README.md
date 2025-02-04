@@ -1,5 +1,3 @@
-# Hi there, I'm Paul! 👋
-
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
@@ -39,15 +37,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="50" alt="Swagger"/>
 </p>
 
-
-
 ---
 
 
-
-
-
-
+# Hi there, I'm Paul! 👋
 
 ## 🚀 About Me
 
