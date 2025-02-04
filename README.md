@@ -52,7 +52,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/6.png" alt="Heart" style="width: 120px; height: auto; margin-top: 20px;"/>
+  <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/6.png" alt="Heart" style="width: 150px; height: auto; margin-top: 20px;"/>
 </p>
 
 
