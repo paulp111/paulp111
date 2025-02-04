@@ -2,10 +2,10 @@
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
 <div align="center" style="margin-top: 20px;">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=YourUsername&color=gradient&style=plastic" alt="Profile Views" style="border-radius: 8px;"/>
-  </p>
+  <p style="color: #bdbdbd; font-family: 'Arial', sans-serif; font-size: 14px;">👁‍🗨 Profile Views</p>
+  <img src="https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet&style=flat-square" alt="Profile Views" style="box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); border-radius: 5px;"/>
 </div>
+
 
 
 ---
