@@ -52,8 +52,26 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/6.png" alt="Heart" style="width: 150px; height: auto; margin-top: 20px;"/>
+  <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/6.png" alt="Heart" style="width: 80px; height: auto; animation: pulse 2s infinite;"/>
 </p>
+
+<style>
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+      opacity: 0.8;
+    }
+    50% {
+      transform: scale(1.1);
+      opacity: 1;
+    }
+    100% {
+      transform: scale(1);
+      opacity: 0.8;
+    }
+  }
+</style>
+
 
 
 <div align="center" style="margin-top: 30px; padding: 20px; border-top: 1px solid #2e2e2e;">
