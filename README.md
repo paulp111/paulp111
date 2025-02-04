@@ -44,7 +44,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark&count_private=true" height="165">
+  <img src="https://activity-graph.herokuapp.com/graph?username=YourUsername&theme=github" alt="GitHub Activity Graph"/>
 <img src="https://github-readme-stats.vercel.app/api?username=paulp111&show_icons=true&theme=dark" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&theme=dark&layout=compact" height="165">
 </p>
