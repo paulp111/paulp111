@@ -70,7 +70,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulp111&theme=dark&layout=compact" height="165" alt="Top Languages">
   &nbsp;&nbsp;&nbsp;
-[![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/PiyushSuthar/github-readme-quotes)
+  <a href="https://github.com/PiyushSuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
+  </a>
 </p>
 
 
