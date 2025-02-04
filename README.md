@@ -4,7 +4,9 @@
 <div align="center" style="margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=YourUsername&color=blue&style=for-the-badge" alt="Profile Views" style="border-radius: 5px; padding: 5px; background: linear-gradient(135deg, #6a11cb, #2575fc); box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);"/>
 </div>
+
 ---
+
 <div align="center" style="margin-top: 10px; font-family: 'Verdana', sans-serif; font-size: 14px; color: #bdbdbd;">
   Learning. Coding. Designing.  
   💻 LAP in Application Development | Minimalism <3  
