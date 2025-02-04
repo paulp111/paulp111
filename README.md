@@ -7,17 +7,6 @@
 
 ---
 
-<div align="center" style="margin-top: 10px; font-family: 'Verdana', sans-serif; font-size: 14px; color: #bdbdbd;">
-  💻 Currently mastering application development (LAP),  
-  exploring the intersection of <strong>technology</strong> and <strong>design</strong>.  
-  Minimalism <strong>&lt;3</strong>, coding is my craft.  
-  <br>
-  <em>Tech Stack:</em> PHP, Kotlin, JavaScript, SQL, and more.
-</div>
-
-
----
-
 <p align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript"/>
