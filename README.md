@@ -64,6 +64,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/6.png" alt="Banner"/>
 </p>
-<p align="center">
-💡 *“The best way to predict the future is to invent it.”* – Alan Kay
-</p>
+
+<div align="center" style="margin-top: 30px; padding: 20px; border-top: 1px solid #2e2e2e;">
+  <p style="color:#bdbdbd; font-size:14px; font-family:'Verdana', sans-serif; font-style:italic;">
+    "𝕾𝖎𝖒𝖕𝖑𝖎𝖈𝖎𝖙𝖞 𝖎𝖘 𝖙𝖍𝖊 𝖚𝖑𝖙𝖎𝖒𝖆𝖙𝖊 𝖘𝖔𝖕𝖍𝖎𝖘𝖙𝖎𝖈𝖆𝖙𝖎𝖔𝖓."  
+    <br>𝕷𝖊𝖔𝖓𝖆𝖗𝖉𝖔 𝖉𝖆 𝖁𝖎𝖓𝖈𝖎
+  </p>
+</div>
+
