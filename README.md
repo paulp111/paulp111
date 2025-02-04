@@ -1,13 +1,3 @@
-<div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
-  <h3 style="color:#ffffff; font-family:'Arial', sans-serif; letter-spacing:1.5px;">👨‍💻 About Me</h3>
-  <p style="color:#bdbdbd; font-size:14px; font-family:'Verdana', sans-serif;">
-    Passionate developer focused on creating <strong>secure</strong> and <strong>scalable</strong> solutions.  
-    Inspired by clean design, performance-driven architectures, and cutting-edge technologies. 🚀
-  </p>
-</div>
-
----
-
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
@@ -67,7 +57,7 @@
 
 <div align="center" style="margin-top: 30px; padding: 20px; border-top: 1px solid #2e2e2e;">
   <p style="color:#bdbdbd; font-size:14px; font-family:'Verdana', sans-serif; font-style:italic;">
-    "𝕾𝖎𝖒𝖕𝖑𝖎𝖈𝖎𝖙𝖞 𝖎𝖘 𝖙𝖍𝖊 𝖚𝖑𝖙𝖎𝖒𝖆𝖙𝖊 𝖘𝖔𝖕𝖍𝖎𝖘𝖙𝖎𝖈𝖆𝖙𝖎𝖔𝖓."  
+    "𝕾𝖎𝖒𝖕𝖑𝖎𝖈𝖎𝖙𝖞 𝖎𝖘 𝖙𝖍𝖊 𝖚𝖑𝖙𝖎𝖒𝖆𝖙𝖊 𝖘𝖔𝖕𝖍𝖎𝖘𝖙𝖎𝖈𝖆𝖙𝖎𝖔𝖓"  
     <br>𝕷𝖊𝖔𝖓𝖆𝖗𝖉𝖔 𝖉𝖆 𝖁𝖎𝖓𝖈𝖎
   </p>
 </div>
