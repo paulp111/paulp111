@@ -64,6 +64,10 @@
   <!-- <a href="https://www.instagram.com/yourusername" target="_blank" style="text-decoration: none;">-->
 <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/insta.svg" height="30" alt="Instagram" style="vertical-align: middle;"/>
 
+<img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/tiktok.svg" height="30" alt="TikTok" style="vertical-align: middle;"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/insta.svg" height="30" alt="Instagram" style="vertical-align: middle;"/>
+
 </div>
 
 
