@@ -1,8 +1,3 @@
-<div align="center">
-  <h2>Welcome to My GitHub</h2>
-  <p>Innovating with code, driven by passion 🔥</p>
-</div>
-
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
@@ -56,17 +51,13 @@
 
 ---
 
-## 🌟 Highlight Projects
+I'm a passionate **software developer** with a strong focus on **web development, IT security**, and **backend systems**. I strive to create high-quality, scalable solutions, explore cutting-edge technologies, and deliver impactful projects.
 
-### 🔐 **SecureFile**
-A secure file upload platform with **user authentication**, **encryption**, and **privacy-first design**.
-- **Tech Stack**: React, Node.js, PostgreSQL, AWS S3
-- **Live Demo**: [securefile.com](https://securefile.com)
-
-### 🏃 **RunTracker**
-An AI-powered running app that provides personalized **training plans** and **performance analytics**.
-- **Tech Stack**: Kotlin, Firebase, Python (ML)
-- **GitHub**: [RunTracker](https://github.com/YourUsername/RunTracker)
+- 💼 Currently mastering **PHP**, **JavaScript**, **Kotlin**, and **SQL**
+- 🌐 Experimenting with **cloud architectures**, **microservices**, **AI-driven solutions**, and **UI/UX design**
+- 🛠 Building projects that balance **performance**, **usability**, and **security**
+- 🎓 Preparing for my **LAP in Application Development**
+- 🚀 Always exploring ways to push the boundaries of **modern software engineering**
 
 ---
 
@@ -75,10 +66,11 @@ An AI-powered running app that provides personalized **training plans** and **pe
 </p>
 
 ## 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourProfile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YourProfile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=web&logoColor=white)](https://yourportfolio.com)
+<div align="center">
+  <h2>Thanks for checking my GitHub</h2>
+  <p>Innovating with code, driven by passion 🔥</p>
+</div>
+
 
 ---
 💡 *“The best way to predict the future is to invent it.”* – Alan Kay
