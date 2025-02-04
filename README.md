@@ -43,26 +43,6 @@
 
 ---
 
-
-# Hi there, I'm Paul! 👋
-
-## 🚀 About Me
-
-I'm a passionate **software developer** with a strong focus on **web development, IT security**, and **backend systems**. I strive to create high-quality, scalable solutions, explore cutting-edge technologies, and deliver impactful projects.
-
-- 💼 Currently mastering **PHP**, **JavaScript**, **Kotlin**, and **SQL**
-- 🌐 Experimenting with **cloud architectures**, **microservices**, **AI-driven solutions**, and **UI/UX design**
-- 🛠 Building projects that balance **performance**, **usability**, and **security**
-- 🎓 Preparing for my **LAP in Application Development**
-- 🚀 Always exploring ways to push the boundaries of **modern software engineering**
-
----
-
-
----
-
-## 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark&count_private=true" height="165">
 <img src="https://github-readme-stats.vercel.app/api?username=paulp111&show_icons=true&theme=dark" height="165">
