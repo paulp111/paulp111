@@ -17,7 +17,7 @@
   &thinsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"/>
   &thinsp;
-<img src="https://www.php.net/images/logos/php-logo.svg" height="50" alt="PHP Logo"/>
+<img src="https://www.php.net/images/logos/php-logo.svg" height="40" alt="PHP Logo"/>
   &thinsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50" alt="Kotlin"/>
   &thinsp;
