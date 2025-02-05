@@ -93,7 +93,7 @@
 
 ---
 
-<div align="center" style="margin-top: 20px; margin-bottom: 20px; font-family: 'Verdana', sans-serif; line-height: 1.6;"> <h3>Thanks for stopping by! ❤️</h3> <p>But don’t leave just yet—my pinned repos are the Instagram-worthy parts of my GitHub.</p> <p>They’re the kind of projects that keep me on my toes and make coding feel exciting.</p> <p>Whether you’re here to stay or just passing through, I hope it felt like home. 🥰</p> </div>
+<div align="center" style="margin-top: 20px; margin-bottom: 20px; font-family: 'Verdana', sans-serif; line-height: 1.6;"> <h3>Thanks for stopping by! ❤️</h3> <p>But don’t leave just yet — my pinned repos are the Instagram-worthy parts of my GitHub.</p> <p>They’re the kind of projects that keep me on my toes and make coding feel exciting.</p> <p>Whether you’re here to stay or just passing through, I hope it felt like home. 🥰</p> </div>
 
 <!--
 <div align="center" style="margin-top: 20px; font-family: 'Verdana', sans-serif; font-size: 20px; color: #bdbdbd; display: flex; justify-content: center; align-items: center; gap: 10px;">
