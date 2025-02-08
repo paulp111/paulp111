@@ -5,7 +5,7 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=paulp111&color=blue" alt="Profile Views Counter">
+  <img src="https://komarev.com/ghpvc/?username=paulp111&color=1DB954" alt="Profile Views Counter">
 </div>
 
 ---
