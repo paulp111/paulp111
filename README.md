@@ -1,10 +1,13 @@
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+<div align="center">
+  <a href="https://open.spotify.com/user/omnitenebris">
+    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing">
+  </a>
 </div>
+
 <div align="center" style="margin-top: 20px;">
-  ![](https://komarev.com/ghpvc/?username=your-github-username)
-  <!-- <div style="font-size: 30px; margin-top: 5px;"></div>
-</div> -->
+  <img src="https://komarev.com/ghpvc/?username=paulp111&color=green&style=flat-square" alt="Profile Views Counter">
+</div>
+
 
 ---
 
