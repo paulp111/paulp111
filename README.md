@@ -5,7 +5,7 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=paulp111&color=green&style=flat-square" alt="Profile Views Counter">
+  <img src="![](https://komarev.com/ghpvc/?username=paulp111&color=green)" alt="Profile Views Counter">
 </div>
 
 ---
