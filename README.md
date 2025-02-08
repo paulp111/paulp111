@@ -5,7 +5,7 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=paulp111&color=green&style=flat-square" alt="Profile Views Counter">
+  <img src="https://komarev.com/ghpvc/?username=paulp111&color=green&style=flat-square" alt="Profile Views Counter" style="border-radius: 5px; padding: 5px; background: linear-gradient(135deg, #6a11cb, #0dce82); box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);" />
 </div>
 
 
