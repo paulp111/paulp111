@@ -3,12 +3,7 @@
     <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing">
   </a>
 </div>
-
-<div align="center" style="margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=paulp111&color=green&style=flat-square" alt="Profile Views Counter" style="border-radius: 5px; padding: 5px; background: linear-gradient(135deg, #6a11cb, #0dce82); box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);" />
-</div>
-
-
 ---
 
 <p align="center">
