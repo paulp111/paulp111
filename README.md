@@ -86,7 +86,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/rocket.gif" alt="Heart" style="width: 150px; height: auto; margin-top: 20px;"/>
+  <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/rocket.gif" alt="Rocket" style="width: 150px; height: auto; margin-top: 20px;"/>
 </p>
 
 <div align="center" style="margin-top: 30px; padding: 20px; border-top: 1px solid #2e2e2e;">
@@ -99,6 +99,10 @@
 ---
 
 <div align="center" style="margin-top: 20px; margin-bottom: 20px; font-family: 'Verdana', sans-serif; line-height: 1.6;"> <h3>Thanks for stopping by! ❤️</h3> <p>But don’t leave just yet — my pinned repos are the Instagram-worthy parts of my GitHub.</p> <p>They’re the kind of projects that keep me on my toes and make coding feel exciting.</p> <p>Whether you’re here to stay or just passing through, I hope it felt like home. 🥰</p> </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/paulp111/paulp111/main/assets/waifu.png" alt="Waifu" style="width: 150px; height: auto; margin-top: 20px;"/>
+</p>
+
 
 <!--
 <div align="center" style="margin-top: 20px; font-family: 'Verdana', sans-serif; font-size: 20px; color: #bdbdbd; display: flex; justify-content: center; align-items: center; gap: 10px;">
