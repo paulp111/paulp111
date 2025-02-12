@@ -4,7 +4,7 @@
   </a>
 </div>
 <div align="center">
-  <a href="github.com/paulp111">
+  <a href="paulp111">
     <img src="https://komarev.com/ghpvc/?username=paulp111&color=1DB954" alt="Profile Views Counter">
   </a>
   <div>🔵🟡</div>
